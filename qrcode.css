@@ -2,6 +2,8 @@ body {
 	background-color: hsl(212, 45%, 89%);
 }
 
+a{text-decoration:none;}
+
 #main {
     background-color: hsl(0, 0%, 100%);
     position:fixed;
