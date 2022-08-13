@@ -15,8 +15,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/plain-css-JSqORnihxg)
-- Live Site URL: (https://celebrated-cuchufli-100bde.netlify.app/)
+- Solution URL: https://www.frontendmentor.io/solutions/plain-css-JSqORnihxg
+- Live Site URL: [https://celebrated-cuchufli-100bde.netlify.app/](https://qrcodejake.netlify.app/)
 
 ### Built with
 
