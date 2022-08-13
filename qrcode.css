@@ -14,19 +14,15 @@ a{text-decoration:none;}
 	justify-content:center;
 	align-items:center;
 	max-width: 400px;
-	height: 315px;
-	border: 1px solid white;
 	border-radius: 1rem;
 	margin:0 auto;
 	
 }
 
 img {
-	width: 180px;
+	width: 90%;
 	display: block;
-	margin: auto;
-	margin-top: 10px;
-	height: 180px;
+	padding:1rem;
 	border-radius: 2rem;
 }
 
